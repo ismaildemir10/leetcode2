@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="N-Queens 2" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Maximum Subarray" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,12 +73,20 @@
       <option name="project" value="LOCAL" />
       <updated>1766697344506</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Maximum Subarray">
+      <created>1766791856945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766791856946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="N-Queens" />
     <MESSAGE value="N-Queens 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="N-Queens 2" />
+    <MESSAGE value="Maximum Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Maximum Subarray" />
   </component>
 </project>
