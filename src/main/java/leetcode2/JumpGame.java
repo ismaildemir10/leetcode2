@@ -8,6 +8,5 @@ public class JumpGame {
             farthest = Math.max(farthest, i + nums[i]);
         }
         return true;
-
     }
 }
