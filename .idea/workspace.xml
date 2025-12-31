@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Jump Game">
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetcode2/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode2/JumpGame.java" afterDir="false" />
-    </list>
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Merge Intervals" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1766961571440</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Merge Intervals">
+      <created>1767100321194</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767100321194</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +110,7 @@
     <MESSAGE value="Maximum Subarray" />
     <MESSAGE value="Spiral Matrix" />
     <MESSAGE value="Jump Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Jump Game" />
+    <MESSAGE value="Merge Intervals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Intervals" />
   </component>
 </project>
