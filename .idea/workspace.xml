@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Merge Intervals" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Insert Interval" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1767100321194</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Insert Interval">
+      <created>1767181053491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1767181053491</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -111,6 +118,7 @@
     <MESSAGE value="Spiral Matrix" />
     <MESSAGE value="Jump Game" />
     <MESSAGE value="Merge Intervals" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Intervals" />
+    <MESSAGE value="Insert Interval" />
+    <option name="LAST_COMMIT_MESSAGE" value="Insert Interval" />
   </component>
 </project>
