@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Spiral Matrix II" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Permutation Sequence" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1767367258412</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Permutation Sequence">
+      <created>1767448241556</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1767448241556</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +142,7 @@
     <MESSAGE value="Insert Interval" />
     <MESSAGE value=" Length of Last Word" />
     <MESSAGE value="Spiral Matrix II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Spiral Matrix II" />
+    <MESSAGE value="Permutation Sequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Permutation Sequence" />
   </component>
 </project>
