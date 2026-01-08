@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment=" Unique Paths 2" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Minimum Path Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1767729929309</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Minimum Path Sum">
+      <created>1767796714287</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1767796714287</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +174,7 @@
     <MESSAGE value="Rotate List" />
     <MESSAGE value=" Unique Paths" />
     <MESSAGE value=" Unique Paths 2" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Unique Paths 2" />
+    <MESSAGE value="Minimum Path Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum Path Sum" />
   </component>
 </project>
