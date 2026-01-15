@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Climbing Stairs" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Simplify Path" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -199,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1768310554004</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Simplify Path">
+      <created>1768396055970</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1768396055970</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,6 +230,7 @@
     <MESSAGE value="Text Justification" />
     <MESSAGE value="Sqrt" />
     <MESSAGE value="Climbing Stairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Climbing Stairs" />
+    <MESSAGE value="Simplify Path" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplify Path" />
   </component>
 </project>
