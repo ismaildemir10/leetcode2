@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Sort Colors" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Minimum Window Substring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -234,11 +234,17 @@
       <option name="project" value="LOCAL" />
       <updated>1768773083902</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Minimum Window Substring">
+      <created>1768923169030</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1768923169030</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="N-Queens" />
     <MESSAGE value="N-Queens 2" />
     <MESSAGE value="Maximum Subarray" />
     <MESSAGE value="Spiral Matrix" />
@@ -263,6 +269,7 @@
     <MESSAGE value="Set Matrix Zeroes" />
     <MESSAGE value="Search a 2D Matrix" />
     <MESSAGE value="Sort Colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort Colors" />
+    <MESSAGE value="Minimum Window Substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minimum Window Substring" />
   </component>
 </project>
