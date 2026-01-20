@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Search a 2D Matrix" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Sort Colors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1768676489307</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Sort Colors">
+      <created>1768773083902</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1768773083902</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -255,6 +262,7 @@
     <MESSAGE value="Edit Distance" />
     <MESSAGE value="Set Matrix Zeroes" />
     <MESSAGE value="Search a 2D Matrix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Search a 2D Matrix" />
+    <MESSAGE value="Sort Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort Colors" />
   </component>
 </project>
