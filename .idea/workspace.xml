@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Subsets" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Word Search" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -269,11 +269,17 @@
       <option name="project" value="LOCAL" />
       <updated>1769119376416</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Word Search">
+      <created>1769261740957</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1769261740957</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Spiral Matrix" />
     <MESSAGE value="Jump Game" />
     <MESSAGE value="Merge Intervals" />
     <MESSAGE value="Insert Interval" />
@@ -298,6 +304,7 @@
     <MESSAGE value="Minimum Window Substring" />
     <MESSAGE value="Combinations" />
     <MESSAGE value="Subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subsets" />
+    <MESSAGE value="Word Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Word Search" />
   </component>
 </project>
