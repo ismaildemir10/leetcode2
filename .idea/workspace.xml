@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Word Search" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Remove Duplicates from Sorted Array II">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode2/RemoveDuplicatesSortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -276,11 +279,17 @@
       <option name="project" value="LOCAL" />
       <updated>1769261740957</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Remove Duplicates from Sorted Array II">
+      <created>1769343300529</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1769343300529</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Jump Game" />
     <MESSAGE value="Merge Intervals" />
     <MESSAGE value="Insert Interval" />
     <MESSAGE value=" Length of Last Word" />
@@ -305,6 +314,7 @@
     <MESSAGE value="Combinations" />
     <MESSAGE value="Subsets" />
     <MESSAGE value="Word Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Word Search" />
+    <MESSAGE value="Remove Duplicates from Sorted Array II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates from Sorted Array II" />
   </component>
 </project>
