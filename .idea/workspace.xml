@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Remove Duplicates from Sorted List" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Search in Rotated Sorted Array II">
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode2/RemoveDuplicatesfromSortedList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -290,11 +293,17 @@
       <option name="project" value="LOCAL" />
       <updated>1769454235492</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Search in Rotated Sorted Array II">
+      <created>1769521335968</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1769521335968</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Insert Interval" />
     <MESSAGE value=" Length of Last Word" />
     <MESSAGE value="Spiral Matrix II" />
     <MESSAGE value="Permutation Sequence" />
@@ -319,6 +328,7 @@
     <MESSAGE value="Word Search" />
     <MESSAGE value="Remove Duplicates from Sorted Array II" />
     <MESSAGE value="Remove Duplicates from Sorted List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove Duplicates from Sorted List" />
+    <MESSAGE value="Search in Rotated Sorted Array II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Search in Rotated Sorted Array II" />
   </component>
 </project>
