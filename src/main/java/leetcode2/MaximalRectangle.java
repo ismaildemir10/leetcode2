@@ -1,0 +1,41 @@
+package leetcode2;
+
+import java.util.Stack;
+
+public class MaximalRectangle {
+    public int maximalRectangle(char[][] matrix) {
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return 0;
+
+        int cols = matrix[0].length;
+        int[] heights = new int[cols];
+        int maxArea = 0;
+
+        for (char[] row : matrix) {
+            for (int j = 0; j < cols; j++) {
+                heights[j] = row[j] == '1' ? heights[j] + 1 : 0;
+            }
+            maxArea = Math.max(maxArea, largestRectangleArea(heights));
+        }
+
+        return maxArea;
+    }
+
+    private int largestRectangleArea(int[] heights) {
+        Stack<Integer> stack = new Stack<>();
+        int maxArea = 0;
+        int[] extended = new int[heights.length + 1];
+        System.arraycopy(heights, 0, extended, 0, heights.length);
+
+        for (int i = 0; i < extended.length; i++) {
+            while (!stack.isEmpty() && extended[i] < extended[stack.peek()]) {
+                int height = extended[stack.pop()];
+                int width = stack.isEmpty() ? i : i - stack.peek() - 1;
+                maxArea = Math.max(maxArea, height * width);
+            }
+            stack.push(i);
+        }
+
+        return maxArea;
+
+    }
+}
