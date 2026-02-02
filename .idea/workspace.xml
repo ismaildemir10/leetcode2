@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Partition List">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode2/ScrambleString.java" afterDir="false" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Scramble String">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,11 +334,17 @@
       <option name="project" value="LOCAL" />
       <updated>1769890471279</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Scramble String">
+      <created>1769897364890</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1769897364890</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Unique Paths" />
     <MESSAGE value=" Unique Paths 2" />
     <MESSAGE value="Minimum Path Sum" />
     <MESSAGE value="Valid Number" />
@@ -363,6 +369,7 @@
     <MESSAGE value="Largest Rectangle in Histogram" />
     <MESSAGE value="Maximal Rectangle" />
     <MESSAGE value="Partition List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Partition List" />
+    <MESSAGE value="Scramble String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Scramble String" />
   </component>
 </project>
