@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Scramble String">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Merge Sorted Array" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -341,11 +339,17 @@
       <option name="project" value="LOCAL" />
       <updated>1769897364890</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Merge Sorted Array">
+      <created>1770049981918</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1770049981918</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value=" Unique Paths 2" />
     <MESSAGE value="Minimum Path Sum" />
     <MESSAGE value="Valid Number" />
     <MESSAGE value="Plus One" />
@@ -370,6 +374,7 @@
     <MESSAGE value="Maximal Rectangle" />
     <MESSAGE value="Partition List" />
     <MESSAGE value="Scramble String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scramble String" />
+    <MESSAGE value="Merge Sorted Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge Sorted Array" />
   </component>
 </project>
