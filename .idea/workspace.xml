@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Merge Sorted Array" />
+    <list default="true" id="74c55c14-4875-4ddf-aebb-0d2e8d88f202" name="Changes" comment="Gray Code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -346,11 +346,17 @@
       <option name="project" value="LOCAL" />
       <updated>1770049981918</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Gray Code">
+      <created>1770212171964</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1770212171964</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Minimum Path Sum" />
     <MESSAGE value="Valid Number" />
     <MESSAGE value="Plus One" />
     <MESSAGE value="Add Binary" />
@@ -375,6 +381,7 @@
     <MESSAGE value="Partition List" />
     <MESSAGE value="Scramble String" />
     <MESSAGE value="Merge Sorted Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge Sorted Array" />
+    <MESSAGE value="Gray Code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gray Code" />
   </component>
 </project>
